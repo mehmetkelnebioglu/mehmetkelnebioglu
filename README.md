@@ -15,13 +15,6 @@
 
 - 😄 Pronouns: He/him
 
-- ⚡ Fun fact: Team work player
-"Alone we can do so little; together we can do so much."
-
-
-
-- 📫 How to reach me **mehmetkelnebioglu@gmail.com**
-
 - 📄 Know about my experiences [https://1drv.ms/w/s!AukC0lhHNhaIgSYjUdomQUDHK-mT](https://1drv.ms/w/s!AukC0lhHNhaIgSYjUdomQUDHK-mT)
 
 - ⚡ Fun fact **Team work player "Alone we can do so little; together we can do so much."**
