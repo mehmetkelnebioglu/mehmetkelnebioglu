@@ -30,7 +30,7 @@
 <p align="left">
 <a href="[https://linkedin.com/in/mehmet kelnebioglu](https://www.linkedin.com/in/mehmetk1/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet kelnebioglu" height="30" width="40" /></a>
   
- <a href="[https://linkedin.com/in/mehmet kelnebioglu](https://www.linkedin.com/in/mehmetk1/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet kelnebioglu" height="30" width="40" /></a>
+ <a href="https://discord.com/channels/@MEHMETKELNEBIOGLU#2317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet kelnebioglu" height="30" width="40" /></a>
   
 </p>
 
