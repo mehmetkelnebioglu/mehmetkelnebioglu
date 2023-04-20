@@ -1,6 +1,5 @@
-### Hi there 👋
-
-
+<h1 align="center">Hi 👋, I'm MEHMET</h1>
+<h3 align="center">A passionate BLOKCHAIN developer from USA</h3>
 
 Here are some ideas to get you started:
 
@@ -21,8 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Team work player
 "Alone we can do so little; together we can do so much."
 
-<h1 align="center">Hi 👋, I'm MEHMET</h1>
-<h3 align="center">A passionate BLOKCHAIN developer from USA</h3>
+
 
 - 📫 How to reach me **mehmetkelnebioglu@gmail.com**
 
