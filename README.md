@@ -85,7 +85,7 @@
       </a>
       <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"
           alt="solidity"
           width="40"
           height="40"
