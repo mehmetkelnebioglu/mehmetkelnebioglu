@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm MEHMET</h1>
 <h3 align="center">A passionate BLOKCHAIN developer from USA</h3>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a few  dapps
 
 - 🌱 I’m currently learning blockchain layer 2 solutions
