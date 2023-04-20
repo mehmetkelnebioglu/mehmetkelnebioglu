@@ -1,8 +1,45 @@
+### Hi there 👋
+
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on a few  dapps
+
+- 🌱 I’m currently learning blockchain layer 2 solutions
+
+- 👯 I'm looking to collaborate any Dapp on the Ethereum blockchain
+
+- 🤔 I'm looking for help with web3 solutions
+
+- 💬 Ask me about html, css, javacript, react, solidity, hardhat, ether.js, web3.js , dapps, decentralisation
+
+- 📫 How to reach me: mehmetkelnebioglu@gmail.com
+
+- 😄 Pronouns: He/him
+
+- ⚡ Fun fact: Team work player
+"Alone we can do so little; together we can do so much."
+
+<h1 align="center">Hi 👋, I'm MEHMET</h1>
+<h3 align="center">A passionate BLOKCHAIN developer from USA</h3>
+
+- 📫 How to reach me **mehmetkelnebioglu@gmail.com**
+
+- 📄 Know about my experiences [https://1drv.ms/w/s!AukC0lhHNhaIgSYjUdomQUDHK-mT](https://1drv.ms/w/s!AukC0lhHNhaIgSYjUdomQUDHK-mT)
+
+- ⚡ Fun fact **Team work player "Alone we can do so little; together we can do so much."**
+
+
+
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mehmet kelnebioglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet kelnebioglu" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/mehmet kelnebioglu](https://www.linkedin.com/in/mehmetk1/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet kelnebioglu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
