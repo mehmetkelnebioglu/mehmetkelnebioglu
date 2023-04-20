@@ -28,10 +28,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/mehmet kelnebioglu](https://www.linkedin.com/in/mehmetk1/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet kelnebioglu" height="30" width="40" /></a>
-  
- <a href="https://discord.com/channels/@MEHMETKELNEBIOGLU#2317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet kelnebioglu" height="30" width="40" /></a>
-  
+<a href="[https://linkedin.com/in/mehmet kelnebioglu](https://www.linkedin.com/in/mehmetk1/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet kelnebioglu" height="30" width="40" /></a> <a href="https://discord.com/channels/@MEHMETKELNEBIOGLU#2317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet kelnebioglu" height="30" width="40" /></a> <a href="mehmetkelnebioglu@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,45 +38,3 @@
 
 
 
-<h1 align="left">Hello 👋 I'm MEHMET</h1>
-
-###
-
-<p align="left">A passionate BLOCKCHAIN developer from USA</p>
-
-###
-
-<p align="left">🔭 I’m currently working on a few dapps<br><br>🌱 I’m currently learning blockchain layer 2 solutions<br><br>👯 I'm looking to collaborate any Dapp on the Ethereum blockchain<br><br>🤔 I'm looking for help with web3 solutions<br><br>💬 Ask me about html, css, javacript, react, solidity, hardhat, ether.js, web3.js , dapps, decentralisation<br><br>📫 How to reach me: mehmetkelnebioglu@gmail.com<br><br>😄 Pronouns: He/him<br><br>📄 Know about my experiences https://1drv.ms/w/s!AukC0lhHNhaIgSYjUdomQUDHK-mT<br><br>⚡ Fun fact Team work player "Alone we can do so little; together we can do so much."</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mehmetk1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mehmetkelnebioglu@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/mehmet/mehmet/blob/output/snake.svg" alt="Snake animation" />
-
-###
