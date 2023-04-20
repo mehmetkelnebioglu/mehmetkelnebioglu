@@ -39,7 +39,6 @@
           height="40"
         />
       </a>
-
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -48,7 +47,6 @@
           height="40"
         />
       </a>
-
       <a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
@@ -69,7 +67,6 @@
           height="40"
         />
       </a>
-
       <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -78,7 +75,6 @@
           height="40"
         />
       </a>
-
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -87,7 +83,6 @@
           height="40"
         />
       </a>
-
       <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"
@@ -96,7 +91,6 @@
           height="40"
         />
       </a>
-
       <a href="https://mochajs.org" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
