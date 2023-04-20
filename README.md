@@ -109,7 +109,7 @@
       </a>
        <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
         <img
-          src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://cdn.jsdelivr.net/npm/vscode-icons-svg@2.0.0/dist/vscode-icons-svg.min.js)"
+          src="https://cdn.jsdelivr.net/npm/vscode-icons-js@11.6.1/dist/generated/FileNamesToIcon.min.js"
           alt="vscode"
           width="40"
           height="40"
