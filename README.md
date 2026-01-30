@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm MEHMET</h1>
 <h3 align="center">A passionate BLOKCHAIN developer from USA</h3>
 
-- 🔭 I’m currently working on a few  dapps
+E-commerce Specialist & Tool Developer
+I manage full-scale operations on Amazon Seller Central and Vendor Central, driving sales and optimizing complex workflows. Beyond management, I am a developer building custom software solutions to automate inventory and operational tasks for large-scale e-commerce businesses.
 
-- 🌱 I’m currently learning blockchain layer 2 solutions
+🔭 Current Focus: Managing high-inventory Amazon accounts and developing automation tools for e-commerce efficiency.
 
-- 👯 I'm looking to collaborate any Dapp on the Ethereum blockchain
+💻 Software Projects: Building custom scripts and applications to simplify Seller/Vendor Central management.
 
-- 🤔 I'm looking for help with web3 solutions
+🚀 Core Expertise: Amazon PPC, Inventory Management, Sales Analytics, and API-based E-commerce Automation.
 
-- 💬 Ask me about html, css, javacript, react, solidity, hardhat, ether.js, web3.js , dapps, decentralisation
+🌱 Learning: Scaling e-commerce tools using advanced Python and cloud integration.
 
-- 📫 How to reach me: mehmetkelnebioglu@gmail.com
+💬 Ask Me About: E-commerce operations, Amazon algorithms, or how I code my own management tools.
 
-- 😄 Pronouns: He/him
-
-- 📄 Know about my experiences [https://1drv.ms/w/s!AukC0lhHNhaIgSYjUdomQUDHK-mT](https://1drv.ms/w/s!AukC0lhHNhaIgSYjUdomQUDHK-mT)
+📫 Reach Me: mehmetkelnebioglu@gmail.com
 
  **Team work player "Alone we can do so little; together we can do so much."**
 
