@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm MEHMET</h1>
-<h3 align="center">A passionate BLOKCHAIN developer from USA</h3>
+<h3 align="center">Data-Driven E-commerce Developer</h3>
 
-E-commerce Specialist & Tool Developer
 I manage full-scale operations on Amazon Seller Central and Vendor Central, driving sales and optimizing complex workflows. Beyond management, I am a developer building custom software solutions to automate inventory and operational tasks for large-scale e-commerce businesses.
 
 🔭 Current Focus: Managing high-inventory Amazon accounts and developing automation tools for e-commerce efficiency.
